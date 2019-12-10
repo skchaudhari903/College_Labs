@@ -25,8 +25,8 @@ public class priority {
  
    System.out.print("Enter the number of process : ");
    n = s.nextInt();
+
     System.out.print("\n\t Enter burst time : time priorities \n");
- 
    for(i=0;i<n;i++)
     {
        System.out.print("\nProcess["+(i+1)+"]:");
