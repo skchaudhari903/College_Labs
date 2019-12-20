@@ -64,7 +64,6 @@ void STACK::convert(char str[])
 
 	cout<<endl<<"Converted String : "<<str<<"\n";
 void STACK::palindrome()
-{	
 {
 	char str[max];
 	int i,j;		
