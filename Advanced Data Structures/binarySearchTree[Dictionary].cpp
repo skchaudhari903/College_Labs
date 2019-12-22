@@ -265,8 +265,7 @@ void BST::update()
 				cout<<"\nEnter new meaning: ";
 				cin>>update;
 				strcpy(temp->mean , update);
-				cout<<"\nMeaning updated.";
-		
+				cout<<"\nMeaning updated.";		
 			}
 			else
 			{
@@ -314,4 +313,5 @@ int main()
 		}
 
 	}while(ans != 6);
+
 }
