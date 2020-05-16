@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-public class priority {
+public class Priority {
         
     public static void main(String args[]) {
             Scanner s = new Scanner(System.in);
