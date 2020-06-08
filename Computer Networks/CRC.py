@@ -79,10 +79,3 @@ if 1 in remainder:
 else:
     print("Success! As remainder is zero, the received frame is correct.")
 print("--------------------------")
-
-
-
-
-
-
-
